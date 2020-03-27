@@ -60,5 +60,9 @@
     "styled-system",
     "kittens ;)"
   ],
-  "gitHead": "93622f44240e45d125764a40ed0d56c9f0fa3a13"
+  "gitHead": "93622f44240e45d125764a40ed0d56c9f0fa3a13",
+  "vetur": {
+    "tags": "vetur/tags.json",
+    "attributes": "vetur/attributes.json"
+  }
 }
