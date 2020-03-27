@@ -23,7 +23,8 @@
     "clean": "rm -rf ./dist"
   },
   "files": [
-    "dist"
+    "dist",
+    "vetur"
   ],
   "dependencies": {
     "@styled-system/css": "^5.0.23",

@@ -29,7 +29,8 @@
     "bootstrap": "lerna bootstrap --use-workspaces",
     "deploy-storybook": "storybook-to-ghpages -- --out=.out",
     "now-build-storybook": "build-storybook -o dist/storybook",
-    "docs:dev": "yarn workspace chakra-ui-docs dev"
+    "docs:dev": "yarn workspace chakra-ui-docs dev",
+    "docgen": "node ./scripts/docgen.js"
   },
   "dependencies": {
     "@babel/core": "^7.7.4",
